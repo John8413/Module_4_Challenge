@@ -18,6 +18,8 @@ pandas is a software library written for the Python programming language for dat
 Import the correct packages to begin coding.
 
 ![The much needed pathways to have before finishing the app.py.](screenshots/import.png)
+
+This is the CSV file needed.
 ![data](screenshots/data.png)
 
 ---
